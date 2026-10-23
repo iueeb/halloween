@@ -43,7 +43,7 @@ local MOTION_SETTINGS = {
     FoldDuration = 0.50, -- seconds, sine ease-in/out
     DragResponse = 20,   -- about 50ms following lag; higher = snappier
 }
-local BAG_LIMIT_DEFAULT = 40 -- standard MM2 coin bag
+local BAG_LIMIT_DEFAULT = 50 -- standard MM2 coin bag
 local BAG_LIMIT_ELITE = 50 -- ELITE gamepass bag (+10 coins)
 local ELITE_GAMEPASS_ID = 429957 -- MM2 "Elite" gamepass
 local MAX_FARM_DISTANCE = 180
